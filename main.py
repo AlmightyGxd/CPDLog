@@ -1,4 +1,4 @@
-name = input("Enter Name ")
+name = "Alexander Banks"
 start_time = input("Enter start time ")
 end_time = input("Enter end time ")
 tod = input("AM or PM ")
